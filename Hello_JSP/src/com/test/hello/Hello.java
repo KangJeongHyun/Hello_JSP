@@ -7,6 +7,10 @@ public class Hello {
 		// 012456 : hotfix edit by kang
 		System.out.println("hotfix edit/modify");
 		// 012456 : end
+		
+		// 023659 : hotfix edit by kang
+		System.out.println("안녕하세요!");
+		// 023659 end
 	}
 
 }
